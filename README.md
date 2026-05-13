@@ -85,7 +85,7 @@ INTERNET (ISP Orange)
 
 ## Validación corporativa — Shadowsocks vs. Palo Alto + FortiGate
 
-Durante las prácticas en empresa (Ekiolan Ingeniería, cliente Exkal):
+Durante las prácticas en empresa (Exkal Marcilla como Administrador de Sistemas):
 
 - La cadena **WireGuard + Shadowsocks** cruzó una VLAN de invitados corporativa y dos firewalls enterprise en producción (**Palo Alto FW-PASeries + FortiGate FW-FortiGate**) sin ser bloqueada.
 - El SOC de **S21sec** generó dos alertas de severidad **Alta** (IDs 4154702 y 4154705) clasificando el tráfico Shadowsocks como *"Connection to a TOR Node (Thales Intelligence)"* — el cifrado era tan opaco que la inteligencia de amenazas lo confundió con tráfico TOR.
@@ -144,7 +144,7 @@ Alumno: **Ekaitz Llano Alonso**
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ekaitz_Llano-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ekaitz-llano)
-[![Email](https://img.shields.io/badge/Email-contacto-D14836?style=flat&logo=gmail)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-contacto-D14836?style=flat&logo=gmail)](mailto:ekaitzllanoalonso@gmail.com)
 
 ---
 
