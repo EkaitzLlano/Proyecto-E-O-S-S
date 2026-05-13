@@ -142,8 +142,6 @@ Alumno: **Ekaitz Llano Alonso**
 ---
 
 ## Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ekaitz_Llano-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ekaitz-llano)
 [![Email](https://img.shields.io/badge/Email-contacto-D14836?style=flat&logo=gmail)](mailto:ekaitzllanoalonso@gmail.com)
 
 ---
